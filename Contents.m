@@ -1,9 +1,9 @@
 % DisTools: Dissimilarity based pattern recognition
-% Version 3.02 13-Sep-2013
+% Version 3.04 13-May-2019
 % 
 % This Matlab toolbox for the analysis of dissimilarity data works only 
 % if also the pattern recognition toolbox PRTools version 5 is available.
-% See http://prtools.org, http://37steps.com
+% See http://37steps.com
 % 
 % R.P.W. Duin (r.duin@37steps.com)
 % E. Pekalksa (e.pekalska@37steps.com)
