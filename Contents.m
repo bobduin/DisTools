@@ -5,7 +5,7 @@
 % if also the pattern recognition toolbox PRTools version 5 is available.
 % See http://37steps.com
 % 
-% R.P.W. Duin (r.duin@37steps.com)
+% R.P.W.Duin (rduin@37steps.com)
 % E. Pekalksa (e.pekalska@37steps.com)
 % 
 %Manipulation of dissimilarity matrices
